@@ -1,0 +1,8 @@
+{ 
+  "printWidth": 2,
+  "useTabs": false,
+  "indentSize": 4,
+  "endOfLine": "lf",
+  "formatter": "csharp",
+  "includeGenerated": false
+}
